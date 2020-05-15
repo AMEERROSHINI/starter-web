@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ameer Roshini	ameerroshni@gmail.com
 
 # THANKS
 
