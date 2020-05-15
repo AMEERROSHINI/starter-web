@@ -6,5 +6,9 @@
 
 ##How to Contribute
 
+Please fork the repository
+
+
 ##Deployment
+
 ##hi
